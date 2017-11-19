@@ -6,4 +6,8 @@
 //  Copyright © 2017 Denys Zhukov. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class TabBarView: UIView {
+    
+}

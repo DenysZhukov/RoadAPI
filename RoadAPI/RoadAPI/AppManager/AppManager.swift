@@ -14,6 +14,13 @@ class AppManager {
     
     init(with window: UIWindow?) {
         self.window = window
+    }
+    
+    func initiateAppFlow() {
+        
+    }
+    
+    private func initiateStartFlow() {
         
     }
 }
