@@ -11,7 +11,7 @@ import GoogleMaps
 
 class Services {
     
-    private let googleAPIKey = "AIzaSyAXtwmu8yzYvTDsdAS1JjcNaqrOasWRemk"
+    private let googleAPIKey = "AIzaSyCE0ZVytP96wIWjJMz9NONwzVqjxGTrY_A"
     
     func configure() {
        GMSServices.provideAPIKey(googleAPIKey)
